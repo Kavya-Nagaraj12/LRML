@@ -1,1 +1,1 @@
-# LRML
+# Linear Regression-Salary prediction 
